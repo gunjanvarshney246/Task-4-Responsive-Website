@@ -14,6 +14,5 @@ Features:
 - Responsive layout
 - Mobile-friendly design
 
-## live link
-https://gunjanvarshney.github.io/Task-4-Responsive-Website
+
 
